@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Hind+Madurai:wght@300;600&display=swap') ;
+
+body{
+    background-image: url("img/maringa.jpg");
+    background-size:2000px;
+    background-repeat:no-repeat;
+    position:relative;
+    background-attachment:fixed;
+}
+.icons{
+position: absolute;
+top: 50px;
+left: 0px;
+}
+
+
+.title{
+ background-color: rgba(13, 153, 99, 0.486);
+ position: relative;
+ width: 410px;
+ padding: 0px 20px;
+ 
+}
+.subtitle{
+    background-color: rgba(83, 236, 90, 0.514);
+    position: relative;
+    width: 470px;
+    padding: 0px 20px;
+    bottom: 16px;
+}
+h1{
+    font-family: 'Gothic A1', sans-serif;
+    color: whitesmoke;    
+    text-align:center;
+}
+
+
+.texto{
+    position: relative;
+    background-color: rgba(4, 37, 19, 0.705);
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    padding: 0px 30px;
+    top: 100px;
+}
